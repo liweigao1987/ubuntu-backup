@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "++++++ .bash_lwg  ++++++"
+
+export JAVA_HOME=/usr/lib/jvm/default-java
+
+alias tlsv1-openssl='export OPENSSL_CONF=/home/liweigao/Documents/openssl.cnf'
+alias dex2jar='/home/liweigao/app/dex2jar/dex2jar-2.0/d2j-dex2jar.sh'
+
+echo "------ .bash_lwg  ------"
